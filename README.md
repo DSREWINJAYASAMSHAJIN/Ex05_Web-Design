@@ -69,7 +69,8 @@ p
 </body>
 </html>
 ## OUTPUT
-![Screenshot (8)](https://github.com/DSREWINJAYASAMSHAJIN/Ex05_Web-Design/assets/127816515/03794ab8-f0e2-41cd-9f85-7c7b9896d874)
+
+![Screenshot (9)](https://github.com/DSREWINJAYASAMSHAJIN/Ex05_Web-Design/assets/127816515/b4f17f71-7a1e-465c-8493-fa6f78abca56)
 
 
 ## RESULT
